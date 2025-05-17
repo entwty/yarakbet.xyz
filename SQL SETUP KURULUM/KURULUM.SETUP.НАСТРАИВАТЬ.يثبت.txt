@@ -1,0 +1,74 @@
+
+
+[TR]
+****Betsapi.tech Timebet2.xyz Script Kurulumu****
+-Öncelikle SQL Dosyasını Veritabanına Aktarınız ve domain Sütünuna Domain Bilgisini Girin veritabanından-
+-  https://betsapi.tech Adresinden ücretsiz token oluşturun. Telegram adresinize anında gelen tokeni  odd_services tablosunda betsapitechkey  sütünuna girin. list ve odds sütünunada örnekte oldugu gibi token alanına  token kodunuzu giriniz
+-Veritabanı Bilgilerinizi. Config/database.php  dosyasına girin.
+-Config Klasöründe timebet2.xyz.php dosyasının adını siteadresiniz olarak güncelleyin örnek.com.php-
+-darksubdomain oluşturun ve dark/sistem/ayar.php  dosyasına veritabanı bilgilerinizi ve panel linkini giriniz.-
+-public_html/content/dark-theme/view/canliayrinti.tpl dosyasında  19. Satırda  $url = "https://betsapi.tech/api/liveodds.php?token=demotoken&matchid="  bu  adresdeki
+demotoken yazan yeri silin ve betsapi.tech Adresinden Aldıgınız Ücretsiz Token Kodunu Girin.-
+
+--- Tüm İşlem Bu Kadar Php 5.6 Olması  Gerek----
+
+admin giriş bilgileri: ID:betsapitech şifrE: betsapitech    Auth: 123123
+
+
+Soru Ve Önerileriniz İçin betsapi.tech Veta t.me/betsapitech  adresinden bizlere ulaşabilirsiniz.
+
+
+
+[EN]
+****Betsapi.tech Timebet2.xyz Script Installation****
+-First Transfer the SQL File to the Database and Enter the Domain Information in the Domain Column from the database-
+- Create a free token from https://betsapi.tech. Enter the token that instantly comes to your Telegram address in the betsapitechkey column in the odd_services table. Enter your token code in the token field in the list and odds columns as in the example
+-Enter your Database Information in the Config/database.php file.
+-In the Config Folder, update the name of the timebet2.xyz.php file to your site address example.com.php-
+-Create a darksubdomain and enter your database information and panel link in the dark/system/ayar.php file.-
+-In the public_html/content/dark-theme/view/canliayrinti.tpl file, on line 19, delete the place where it says $url = "https://betsapi.tech/api/liveodds.php?token=demotoken&matchid=" and enter the free token code you received from betsapi.tech.-
+
+--- That's all, it needs to be Php 5.6----
+
+admin login information: ID:betsapitech password: betsapitech Auth: 123123
+
+For your questions and suggestions, you can reach us at betsapi.tech or t.me/betsapitech.
+
+[RU]
+
+****Установка скрипта Betsapi.tech Timebet2.xyz****
+-Прежде всего, перенесите файл SQL в базу данных и введите информацию о домене в столбец домена из базы данных.
+- Создавайте бесплатные токены на https://betsapi.tech. Введите токен, мгновенно отправленный на ваш адрес Telegram, в столбец betsapitechkey таблицы нечетных_услуг. В столбце списка и шансов введите код вашего токена в поле токена, как показано в примере.
+-Информация о базе данных. Введите файл config/database.php.
+- В папке конфигурации обновите имя файла timebet2.xyz.php как адрес вашего сайта example.com.php-
+-Создайте darksubdomain и введите информацию о вашей базе данных и ссылку на панель в файл dark/system/setting.php.-
+-В строке 19 файла public_html/content/dark-theme/view/canliayrinti.tpl $url = "https://betsapi.tech/api/liveodds.php?token=demotoken&matchid=" по этому адресу
+Удалите место, где написано «demotoken», и введите бесплатный код токена, который вы получили от betsapi.tech.-
+
+--- Вот и весь процесс, который должен быть Php 5.6 ----
+
+информация для входа администратора: betsapitech пароль: betsapitech Auth: 123123
+
+
+Если у вас есть вопросы и предложения, вы можете связаться с нами по адресу betsapi.tech Veta t.me/betsapitech.
+
+
+[AR]
+****تثبيت البرنامج النصي Betsapi.tech Timebet2.xyz****
+-أولاً، قم بنقل ملف SQL إلى قاعدة البيانات وأدخل معلومات المجال في عمود المجال من قاعدة البيانات-
+- أنشئ رموزًا مجانية على https://betsapi.tech. أدخل الرمز المميز الذي تم إرساله على الفور إلى عنوان Telegram الخاص بك في عمود betsapitechkey في جدول الخدمات الفردية. في عمود القائمة والاحتمالات، أدخل رمز الرمز المميز الخاص بك في حقل الرمز المميز كما في المثال.
+-معلومات قاعدة البيانات. أدخل الملف config/database.php.
+-في مجلد التكوين، قم بتحديث اسم الملف timebet2.xyz.php كعنوان الموقع الخاص بك example.com.php-
+-قم بإنشاء نطاق darksubdomain وأدخل معلومات قاعدة البيانات الخاصة بك ورابط اللوحة في ملف dark/system/setting.php.-
+-في السطر 19 من ملف public_html/content/dark-theme/view/canliayrinti.tpl $url = "https://betsapi.tech/api/liveodds.php?token=demotoken&matchid=" على هذا العنوان
+احذف المكان الذي يظهر فيه demotoken وأدخل رمز الرمز المميز المجاني الذي تلقيته من betsapi.tech.-
+
+--- هذا كل ما يجب أن تكون عليه العملية Php 5.6----
+
+معلومات تسجيل دخول المسؤول: كلمة مرور betsapitech: betsapitech Auth: 123123
+
+
+لطرح أسئلتك واقتراحاتك، يمكنك التواصل معنا على betsapi.tech Veta t.me/betsapitech.
+
+
+
